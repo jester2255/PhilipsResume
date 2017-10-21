@@ -1,0 +1,16 @@
+body{
+	font-family: "Times New Roman", Times, serif;
+}
+h1{
+	font-weight: bold;
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+#one{
+	text-indent: 25px;
+}
+#two{
+	text-indent: 50px;
+}
